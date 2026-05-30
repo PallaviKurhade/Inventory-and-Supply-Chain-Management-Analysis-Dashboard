@@ -84,6 +84,13 @@ This dashboard helps monitor these metrics and supports data-driven supply chain
 
 ---
 
+## 📷 Dashboard Screenshot
+
+<img width="1319" height="738" alt="Screenshot 2026-05-30 175621" src="https://github.com/user-attachments/assets/9f4f8543-6a8b-4c27-8d61-fc8428dc006d" />
+
+
+---
+
 ## 📐 Sample DAX Measures
 
 ```DAX
@@ -97,11 +104,6 @@ DSI =
 DIVIDE([Average Inventory],[Cost of Goods Sold])*365
 
 ---
-
-## Supply Chain Management Screenshot
-![<img width="1319" height="738" alt="Screenshot 2026-05-30 175621" src="https://github.com/user-attachments/assets/5839ec6b-62ce-497f-9733-1b6acae01c07" />]
-
-
 
 
 
