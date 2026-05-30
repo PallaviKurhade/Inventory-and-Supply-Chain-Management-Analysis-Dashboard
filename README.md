@@ -99,7 +99,7 @@ DIVIDE([Average Inventory],[Cost of Goods Sold])*365
 ---
 
 ## Supply Chain Management Screenshot
-<img width="1319" height="738" alt="Screenshot 2026-05-30 175621" src="https://github.com/user-attachments/assets/5839ec6b-62ce-497f-9733-1b6acae01c07" />
+![<img width="1319" height="738" alt="Screenshot 2026-05-30 175621" src="https://github.com/user-attachments/assets/5839ec6b-62ce-497f-9733-1b6acae01c07" />]
 
 
 
